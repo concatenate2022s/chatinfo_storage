@@ -1,0 +1,1 @@
+# chatinfo_storage
